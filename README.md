@@ -1,3 +1,6 @@
+#Preview
+- [Preview](https://mag1ckdrak0n.github.io/exam2/)
+
 # Екзамен з HTML/CSS
 
 Зверстайте макет сторінки зі списком [найбагатших спортсменів](https://www.figma.com/file/fs0dfZUONmT5PbHszXzM8qar/Athletes?node-id=0%3A1)
